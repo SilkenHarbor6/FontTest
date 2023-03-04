@@ -4,4 +4,5 @@
   font-weight: 100;
   font-display: swap;
   src: url(LemonJuice.otf) format('opentype');
+  unicode-range: U+0065-0090, U+00097-0122, U+0048-0057, U+0036,U+0162-0165,U+0128,U+0043,U+0045,U+0047,U+0247,U+0040-0041;
 }
